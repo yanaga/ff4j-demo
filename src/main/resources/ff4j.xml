@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<features xmlns="http://www.ff4j.org/schema/ff4j"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.ff4j.org/schema/ff4j http://ff4j.org/schema/ff4j-1.6.xsd">
+
+    <feature uid="hello" enable="true" description="Hello feature"/>
+    <feature uid="newRecommendationEngine" enable="false" description="Improved recommendation engine"/>
+
+</features>
